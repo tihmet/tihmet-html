@@ -1,0 +1,357 @@
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td
+{
+    background: transparent;
+    border: 0;
+    font-size: 100%;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+body
+{
+    line-height: 1;
+}
+ol,ul
+{
+    list-style: none;
+}
+blockquote,q
+{
+    quotes: none;
+}
+blockquote:before,blockquote:after,q:before,q:after
+{
+    content: none;
+}
+:focus
+{
+    outline: 0;
+}
+ins
+{
+    text-decoration: none;
+}
+del
+{
+    text-decoration: line-through;
+}
+table
+{
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+a img
+{
+    border: 0;
+}
+.ie-6 button
+{
+    overflow: visible;
+}
+.ie-7 button
+{
+    overflow: visible;
+}
+html
+{
+    height: 100%;
+}
+html body
+{
+    background-attachment: fixed;
+    background-color: #eee;
+    background-image: url("back-cropped-more.png");
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    color: #000;
+    display: block;
+    font-family: Trebuchet MS,Trebuchet MS,sans-serif;
+    font-size: 16px;
+    height: 100%;
+}
+html body a
+{
+    color: #004d99;
+}
+html body a:hover
+{
+    color: #b00;
+}
+html body #wrapper
+{
+    clear: both;
+    height: 100%;
+    margin: 0 auto;
+    width: 100%;
+}
+html body #wrapper #inner
+{
+    height: 100%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+html body #wrapper #inner #content-block
+{
+    clear: left;
+    float: left;
+    height: 100%;
+    margin-left: 4%;
+    margin-right: 2%;
+    width: 62%;
+}
+html body #wrapper #inner #content-block #header
+{
+    margin-top: 32px;
+}
+html body #wrapper #inner #content-block #header a.logo
+{
+    background-image: url("logo.png");
+    background-repeat: no-repeat;
+    height: 40px;
+    position: absolute;
+    text-decoration: none;
+    width: 40px;
+}
+html body #wrapper #inner #content-block #header h1
+{
+    color: #000;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 70px;
+}
+html body #wrapper #inner #content-block #header h1 span
+{
+    color: #000;
+    font-size: 22px;
+    font-weight: normal;
+}
+html body #wrapper #inner #content-block #header div.description
+{
+    color: #666;
+    font-size: 14px;
+    margin-left: 70px;
+    margin-top: 4px;
+}
+html body #wrapper #inner #content-block #header div.back
+{
+    font-size: 14px;
+    margin-left: 70px;
+    margin-top: 14px;
+}
+html body #wrapper #inner #content-block #content
+{
+    padding-bottom: 60px;
+}
+html body #wrapper #inner #content-block #content.home
+{
+    margin-left: 70px;
+    margin-top: 65px;
+}
+html body #wrapper #inner #content-block #content.table
+{
+    margin-top: 36px;
+}
+html body #wrapper #inner #content-block #content h2
+{
+    color: #3d5066;
+    font-size: 18px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+html body #wrapper #inner #content-block #content ul.services-list
+{
+    color: #004d99;
+    font-size: 14px;
+    list-style: disc;
+    padding-left: 16px;
+}
+html body #wrapper #inner #content-block #content ul.services-list li
+{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+html body #wrapper #inner #content-block #content ul.services-list li a
+{
+    font-size: 18px;
+}
+html body #wrapper #inner #sidebar,html body #wrapper #inner #sidebar-background,html body #wrapper #inner #call-us
+{
+    float: right;
+    left: 68%;
+    max-width: 400px;
+    position: fixed;
+    width: 32%;
+}
+html body #wrapper #inner #sidebar,html body #wrapper #inner #sidebar-background
+{
+    height: 100%;
+}
+html body #wrapper #inner #sidebar
+{
+    background: transparent;
+    z-index: 3;
+}
+html body #wrapper #inner #sidebar #contact-block
+{
+    filter: alpha(opacity=100);
+    khtml-opacity: 1;
+    moz-opacity: 1;
+    ms-filter: alpha(opacity=100);
+    opacity: 1;
+}
+html body #wrapper #inner #sidebar #contact-block ul
+{
+    font-size: 14px;
+}
+html body #wrapper #inner #sidebar #contact-block ul li.owner ul,html body #wrapper #inner #sidebar #contact-block ul li.contact ul,html body #wrapper #inner #sidebar #contact-block ul li.map ul
+{
+    margin-left: 6%;
+    margin-right: 4%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+html body #wrapper #inner #sidebar #contact-block ul li.owner ul li,html body #wrapper #inner #sidebar #contact-block ul li.contact ul li,html body #wrapper #inner #sidebar #contact-block ul li.map ul li
+{
+    padding: 3px;
+}
+html body #wrapper #inner #sidebar #contact-block ul li.owner,html body #wrapper #inner #sidebar #contact-block ul li.contact,html body #wrapper #inner #sidebar #contact-block ul li.map
+{
+    border-bottom-color: #ccc;
+    border-bottom-style: dotted;
+    border-bottom-width: 1px;
+}
+html body #wrapper #inner #sidebar #contact-block ul li.owner ul li.header,html body #wrapper #inner #sidebar #contact-block ul li.contact ul li.header,html body #wrapper #inner #sidebar #contact-block ul li.map ul li.header
+{
+    font-weight: bold;
+}
+html body #wrapper #inner #sidebar #contact-block ul li.owner ul li.lunch,html body #wrapper #inner #sidebar #contact-block ul li.contact ul li.lunch,html body #wrapper #inner #sidebar #contact-block ul li.map ul li.lunch
+{
+    color: #b20000;
+}
+html body #wrapper #inner #sidebar #contact-block ul li.owner ul li.phone span.description,html body #wrapper #inner #sidebar #contact-block ul li.contact ul li.phone span.description,html body #wrapper #inner #sidebar #contact-block ul li.map ul li.phone span.description
+{
+    color: #666;
+}
+html body #wrapper #inner #sidebar #contact-block ul li.owner ul
+{
+    padding-top: 32px;
+}
+html body #wrapper #inner #sidebar #contact-block ul li.owner ul li.name
+{
+    font-size: 17px;
+}
+html body #wrapper #inner #sidebar #contact-block ul li.owner ul li.profession
+{
+    color: #666;
+}
+html body #wrapper #inner #sidebar #contact-block ul li.map
+{
+    border-bottom: 0;
+}
+html body #wrapper #inner #sidebar-background
+{
+    background-color: #fff;
+    filter: alpha(opacity=50);
+    khtml-opacity: .5;
+    moz-opacity: .5;
+    ms-filter: alpha(opacity=50);
+    opacity: .5;
+    z-index: 1;
+}
+html body #wrapper #inner #call-us
+{
+    background-color: #f2e2c2;
+    bottom: 0;
+    color: #e54d00;
+    max-width: 400px;
+    position: fixed;
+    width: 32%;
+    z-index: 4;
+}
+html body #wrapper #inner #call-us ul
+{
+    margin-left: 6%;
+    margin-right: 4%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+html body #wrapper #inner #call-us ul li
+{
+    font-size: 18px;
+    padding: 3px;
+}
+html body #wrapper #inner #call-us ul li.level1
+{
+    font-weight: bold;
+}
+table.simple-table
+{
+    border-collapse: collapse;
+    font-size: 12px;
+}
+table.simple-table thead tr th
+{
+    font-weight: bold;
+    padding: 10px;
+    text-align: left;
+    white-space: nowrap;
+}
+table.simple-table tbody tr.first-row
+{
+    border-top: 1px solid #acb7bf;
+}
+table.simple-table tbody tr.first-row td
+{
+    border-top: 1px solid #acb7bf;
+}
+table.simple-table tbody tr.last-row
+{
+    border-bottom: 1px solid #acb7bf;
+}
+table.simple-table tbody tr.last-row td
+{
+    border-bottom: 1px solid #acb7bf;
+}
+table.simple-table tbody tr.odd-row
+{
+    background-color: #fff;
+}
+table.simple-table tbody tr.odd-row td
+{
+    background-color: #fff;
+}
+table.simple-table tbody tr.even-row
+{
+    background-color: #f0f4f7;
+}
+table.simple-table tbody tr.even-row td
+{
+    background-color: #f0f4f7;
+}
+table.simple-table tbody tr td
+{
+    padding: 10px;
+    text-align: left;
+    vertical-align: middle;
+}
+table.simple-table tbody tr td.full-width
+{
+    width: 100%;
+}
+table.simple-table tbody tr td.first-column
+{
+    border-left: 1px solid #acb7bf;
+}
+table.simple-table tbody tr td.last-column
+{
+    border-right: 1px solid #acb7bf;
+}
+table.simple-table tbody tr td.null
+{
+    color: #666;
+}
+table.simple-table tbody tr td.nw
+{
+    white-space: nowrap;
+}
